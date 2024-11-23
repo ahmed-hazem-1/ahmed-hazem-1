@@ -2,7 +2,7 @@
 ---
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue) 
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-hazem-1&color=blue) 
 ---
 
 
