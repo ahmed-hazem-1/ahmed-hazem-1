@@ -1,8 +1,9 @@
 
 ---
 # Welcome to My GitHub Profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmed-hazem-1&color=blue)
+<div align="center">
+![Visitor Count](https://profile-counter.glitch.me/ahmed-hazem-1/count.svg)
+</div>
 
 ---
 
