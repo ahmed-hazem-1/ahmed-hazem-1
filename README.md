@@ -3,7 +3,7 @@
 # Welcome to My GitHub Profile!
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/ahmed-hazem-1/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/ahmed-hazem-1/count.svg)
   
 </div>
 
