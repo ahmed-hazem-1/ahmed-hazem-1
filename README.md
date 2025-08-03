@@ -139,16 +139,6 @@ class AhmedHazemElabady:
 - 🧠 **AI Model Trainer** @ Outlier (Freelance)
 - 💻 **IT Trainee** @ Egyptian Natural Gas Holding Company
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHazemElabady&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHazemElabady&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHazemElabady&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn**: [Ahmed Hazem Elabady](https://www.linkedin.com/in/ahmed-hazem-elabady-9a904924b/)
